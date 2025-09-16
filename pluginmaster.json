@@ -9,7 +9,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "Changelog": "- 支持国服的临时版本",
-    "DownloadLinkInstall": "https://github.com/kznr02/Ices-Cosmic-Exploration/releases/download/v0.0.0.65/lastet.zip",
-    "DownloadLinkUpdate": "https://github.com/kznr02/Ices-Cosmic-Exploration/releases/download/v0.0.0.65/lastet.zip"
+    "DownloadLinkInstall": "https://github.com/kznr02/Ices-Cosmic-Exploration/releases/download/v0.0.0.65/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kznr02/Ices-Cosmic-Exploration/releases/download/v0.0.0.65/latest.zip"
   }
  ]
