@@ -3,13 +3,18 @@
     "Author": "Ice",
     "Name": "Ice's Cosmic Exploration",
     "InternalName": "ICE",
-    "Punchline": "支持国服的采集小助手",
     "AssemblyVersion": "0.0.0.65",
-    "Description": "玉子烧自编译，请勿在闲鱼购买",
+    "Description": "A little helper to go gather your heart out.",
     "ApplicableVersion": "any",
+    "Tags": [
+        "Gatherers"
+    ],
     "DalamudApiLevel": 13,
-    "Changelog": "- 支持国服的临时版本",
-    "DownloadLinkInstall": "https://github.com/kznr02/Ices-Cosmic-Exploration/releases/download/v0.0.0.65/lastet.zip",
-    "DownloadLinkUpdate": "https://github.com/kznr02/Ices-Cosmic-Exploration/releases/download/v0.0.0.65/lastet.zip"
-  }
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "The gathering companion that we all needed.",
+    "AcceptsFeedback": true
+    }
  ]
